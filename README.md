@@ -61,7 +61,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
 | OWNERS | owner number(917605902011;GURU;6281255369012;Ash) | 
-| BOTNAME | Your Bot Name | 
+| BOTNAME | MAHI AI | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
 
